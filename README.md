@@ -11,7 +11,7 @@ This project is a Power BI analytics dashboard replica developed to demonstrate 
 
 # The project was inspired by a real freelance client engagement.
 To maintain client confidentiality and data privacy, all datasets, identifiers, and business values used in this portfolio version are mocked, anonymized, and recreated for demonstration purposes only.
-
+ 
 # Data Privacy Disclaimer
 
 This project is a portfolio-safe replica created using synthetic/mock data structures inspired by a real-world business problem solved during a freelance engagement.
