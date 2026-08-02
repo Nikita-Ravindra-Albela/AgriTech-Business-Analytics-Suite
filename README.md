@@ -2,7 +2,7 @@
 This project is a Power BI analytics dashboard replica developed to demonstrate advanced business intelligence and data analytics capabilities in the poultry and agri-input domain.  
 
 # The dashboard suite provides insights into:
-
+ 
 - Executive business performance
 - Customer lifecycle and retention
 - Product pricing sensitivity
